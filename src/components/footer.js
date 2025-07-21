@@ -162,7 +162,7 @@ export default function Footer() {
               Designed by{" "}
               <span className="text-green-400 font-semibold">
                 <Link
-                  href="https://portfolio-gamma-ten-75.vercel.app/"
+                  href="https://www.asc-cm.com.ng/"
                   className="hover:text-green-400 transition-colors duration-200"
                 >
                   ASC-cm
